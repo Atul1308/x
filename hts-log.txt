@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Jun 2024 22:28:34 at https://atul999.wixsite.com/pricing +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://atul999.wixsite.com/pricing -O1 "C:\Users\a\Documents\x" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:29:23	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/location.href (from https://atul999.wixsite.com/pricing)
+22:29:23	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/ (from https://atul999.wixsite.com/pricing)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/sitemap.xml (from https://atul999.wixsite.com/pricing)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/feed.xml (from https://atul999.wixsite.com/pricing)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/${n.uri} (from https://atul999.wixsite.com/pricing)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/decodeURIComponent(e (from https://atul999.wixsite.com/pricing)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/location.href (from https://atul999.wixsite.com/pricing/solutions)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/robots.txt (from https://atul999.wixsite.com/pricing/solutions)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/feed.xml (from https://atul999.wixsite.com/pricing/solutions)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/${n.uri} (from https://atul999.wixsite.com/pricing/solutions)
+22:31:13	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/decodeURIComponent(e (from https://atul999.wixsite.com/pricing/solutions)
+22:34:44	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/challenge-page/sitemap.xml (from https://atul999.wixsite.com/pricing/challenge-page/277fbd89-775b-4464-ae08-d4087620fbfa)
+22:34:44	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/challenge-page/feed.xml (from https://atul999.wixsite.com/pricing/challenge-page/277fbd89-775b-4464-ae08-d4087620fbfa)
+22:34:45	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/challenge-page/decodeURIComponent(e (from https://atul999.wixsite.com/pricing/challenge-page/277fbd89-775b-4464-ae08-d4087620fbfa)
+22:34:45	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/post/location.href (from https://atul999.wixsite.com/pricing/post/8-technology-trends-that-will-dominate-this-year)
+22:35:07	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/post/robots.txt (from https://atul999.wixsite.com/pricing/post/8-technology-trends-that-will-dominate-this-year)
+22:35:07	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/post/sitemap.xml (from https://atul999.wixsite.com/pricing/post/8-technology-trends-that-will-dominate-this-year)
+22:35:07	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/post/feed.xml (from https://atul999.wixsite.com/pricing/post/8-technology-trends-that-will-dominate-this-year)
+22:35:07	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/post/${n.uri} (from https://atul999.wixsite.com/pricing/post/8-technology-trends-that-will-dominate-this-year)
+22:35:07	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/post/decodeURIComponent(e (from https://atul999.wixsite.com/pricing/post/8-technology-trends-that-will-dominate-this-year)
+22:35:09	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/product-page/location.href (from https://atul999.wixsite.com/pricing/product-page/i-m-a-product)
+22:35:09	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/product-page/robots.txt (from https://atul999.wixsite.com/pricing/product-page/i-m-a-product)
+22:35:10	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/product-page/sitemap.xml (from https://atul999.wixsite.com/pricing/product-page/i-m-a-product)
+22:35:10	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/product-page/feed.xml (from https://atul999.wixsite.com/pricing/product-page/i-m-a-product)
+22:35:10	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/product-page/${n.uri} (from https://atul999.wixsite.com/pricing/product-page/i-m-a-product)
+22:35:10	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/product-page/decodeURIComponent(e (from https://atul999.wixsite.com/pricing/product-page/i-m-a-product)
+22:35:10	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/profile/atulpr437/location.href (from https://atul999.wixsite.com/pricing/profile/atulpr437/profile)
+22:35:11	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/profile/atulpr437/robots.txt (from https://atul999.wixsite.com/pricing/profile/atulpr437/profile)
+22:35:11	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/profile/atulpr437/sitemap.xml (from https://atul999.wixsite.com/pricing/profile/atulpr437/profile)
+22:35:11	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/profile/atulpr437/feed.xml (from https://atul999.wixsite.com/pricing/profile/atulpr437/profile)
+22:35:11	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/profile/atulpr437/${n.uri} (from https://atul999.wixsite.com/pricing/profile/atulpr437/profile)
+22:35:12	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/blog/hashtags/location.href (from https://atul999.wixsite.com/pricing/blog/hashtags/dream)
+22:35:12	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/blog/hashtags/robots.txt (from https://atul999.wixsite.com/pricing/blog/hashtags/dream)
+22:35:12	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/blog/hashtags/sitemap.xml (from https://atul999.wixsite.com/pricing/blog/hashtags/dream)
+22:35:12	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/blog/hashtags/feed.xml (from https://atul999.wixsite.com/pricing/blog/hashtags/dream)
+22:35:12	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/blog/hashtags/${n.uri} (from https://atul999.wixsite.com/pricing/blog/hashtags/dream)
+22:35:12	Error: 	"Not Found" (404) at link https://atul999.wixsite.com/pricing/blog/hashtags/decodeURIComponent(e (from https://atul999.wixsite.com/pricing/blog/hashtags/dream)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 39 seconds : 229 links scanned, 191 files written (47914137 bytes overall) [16850723 bytes received at 42232 bytes/sec], 59372575 bytes transferred using HTTP compression in 110 files, ratio 21%, 1.8 requests per connection
+(37 errors, 0 warnings, 0 messages)
